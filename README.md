@@ -1,4 +1,6 @@
-## NOTE: The game is not complete yet, it's a work in progress!
+## NOTE: 
+The game is not complete yet, it's a work in progress. So you might face some bugs while playing the game.
+
 ## Story of the game.
 
 The planet earth was destroyed after Alien bots attacked the earth by spreading a virus which truned everyone in to zombies and they ended up killing each other except one person who didn't turn into a full zombie but half. He is still alive, but technically half dead. And now he is attacking the Alien bots.
