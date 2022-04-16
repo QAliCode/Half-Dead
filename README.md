@@ -8,6 +8,6 @@ The planet earth was destroyed after Alien bots attacked the earth by spreading 
 
 Kill all the Alien Bots and get to the medical camp and cure yourself.
 
-##Controls
+## Controls
 
 Use the arrow keys to move the character right, left or jump.
