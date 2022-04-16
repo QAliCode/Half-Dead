@@ -1,3 +1,5 @@
+### Half Dead
+
 ## NOTE: 
 The game is not complete yet, it's a work in progress. So you might face some bugs while playing the game.
 
