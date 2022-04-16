@@ -1,4 +1,5 @@
 ### Half Dead
+To play the game, download the source code and run it on "Godot Gaming Engine".
 
 ## NOTE: 
 The game is not complete yet, it's a work in progress. So you might face some bugs while playing the game.
